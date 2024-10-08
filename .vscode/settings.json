@@ -1,0 +1,5 @@
+{
+    "cortex-debug.variableUseNaturalFormat": false,
+    "editor.formatOnSave": true,
+    "rust-analyzer.debug.engineSettings": {},
+}
